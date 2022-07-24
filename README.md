@@ -2,7 +2,6 @@
 <h2 align="center">
     My Stats:
 </h2>
-
 <p align="center">
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=clout2k&show_icons=true&title_color=fff&icon_color=018eff&text_color=ECECEC&bg_color=000000" alt="My Public Github Stats">
 </p>  
@@ -20,6 +19,6 @@ I created these images, feel free to use them.
   </a>
 </p>
 <p align="center">
-<img align="center" src="https://visitor-badge.glitch.me/badge?page_id=clout2k.clout2k" alt="My Visitors
+<img align="center" src="https://visitor-badge.glitch.me/badge?page_id=clout2k.clout2k" alt="My Visitors">
 </p>  
 
