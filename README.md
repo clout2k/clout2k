@@ -1,8 +1,8 @@
 ## <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/welcomeglitch.gif" width="50px" /> my name is clout!
 <p align="center" >
   <samp>
-    My name is Clout. I am a Developer, Gamer, and Music Enthusiast  
-  <br/> JavaScript Enthusiast.. JavaScrit lover. JavaScript addict. 
+    My name is Clout. I am a Developer, Gamer, and Music Enthusiast. 
+  <br/>  I enjo trying new things and conquering things i have no clue about
   <br/>
 </p>
 
