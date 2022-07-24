@@ -6,10 +6,10 @@
     My name is Clout. I am a Developer, Gamer, and Music Enthusiast. 
   <br/>  I enjoy trying new things and conquering things i have no clue about
   <br/>
-       
+        <img align="center" src="https://content.presentermedia.com/content/animsp/00001000/1849/student_working_on_laptop_anim_300_wht.gif" width="100px" /> 
 </p>
 
- <img align="center" src="https://content.presentermedia.com/content/animsp/00001000/1849/student_working_on_laptop_anim_300_wht.gif" width="100px" /> 
+
 
 
 
