@@ -17,7 +17,7 @@
         
             <img src="https://seeklogo.com/vector-logo/273749/node-js" height="35px" style="vertical-align:top margin:6px 4px" />
            
-             <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1024px-Visual_Studio_Code_1.35_icon.svg.png" height="35px" style="vertical-align:top margin:6px 4px"/>
+             <img src="https://cdn.cdnlogo.com/logos/v/82/visual-studio-code.svg" height="35px" style="vertical-align:top margin:6px 4px"/>
             
              
 </p>
