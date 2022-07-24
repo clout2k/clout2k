@@ -8,7 +8,9 @@
 </p>  
 
 <br/>
-## Social Medias
+<h2 align="center">
+   Social Medias:
+</h2>
 <!-- Your support, if you have it 
 I created these images, feel free to use them.
 -->
@@ -17,5 +19,7 @@ I created these images, feel free to use them.
     <img width="18%" alt="Find All My Social Medias Here" src="https://ia802905.us.archive.org/8/items/clickme_202004/tapme.gif"/>
   </a>
 </p>
+<p align="center">
+<img align="center" src="https://visitor-badge.glitch.me/badge?page_id=clout2k.clout2k" alt="My Visitors
+</p>  
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=clout2k.clout2k)
