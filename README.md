@@ -6,6 +6,7 @@
     My name is Clout. I am a Developer, Gamer, and Music Enthusiast. 
   <br/>  I enjoy trying new things and conquering things i have no clue about
   <br/>
+        <img src="https://i.gifer.com/3IsP.gif" width="100px" /> 
 </p>
 
 
