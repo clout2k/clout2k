@@ -54,7 +54,8 @@ Find All My Social Medias Here
 <a href="https://www.painbot.xyz/clout" target="_blank">
 <img width="18%" alt="Find All My Social Medias Here" src="https://ia802905.us.archive.org/8/items/clickme_202004/tapme.gif"/>
 </a>
-<img align="center" src="https://www.kindpng.com/picc/m/396-3969195_animated-computer-gif-png-transparent-png.png" width="100px">
+</br>
+<img align="center" src="https://www.kindpng.com/picc/m/396-3969195_animated-computer-gif-png-transparent-png.png" width="200px">
 </p>
 <p align="center">
 <img align="center" src="https://visitor-badge.glitch.me/badge?page_id=clout2k.clout2k" alt="My Visitors">
