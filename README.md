@@ -47,7 +47,6 @@
 
 <h2 align="center">
 Find All My Social Medias Here
-<img src="https://zellusmarketing.com/wp-content/uploads/2021/02/Social-Media-Marketing-gif-2-2.gif" width="40px" /> 
 </h2>
 
 <p align="center">
