@@ -28,7 +28,7 @@
 
 
 <h2 align="center">
-Social Medias:
+Find All My Social Medias Here
 </h2>
 <!-- Your support, if you have it 
 I created these images, feel free to use them.
