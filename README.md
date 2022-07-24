@@ -9,7 +9,7 @@
        
 </p>
 
- <img align="center" src="https://i.gifer.com/3IsP.gif" width="100px" /> 
+ <img align="center" src="https://content.presentermedia.com/content/animsp/00001000/1849/student_working_on_laptop_anim_300_wht.gif" width="100px" /> 
 
 
 
