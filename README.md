@@ -9,7 +9,7 @@
        
 </p>
 
- <img src="https://i.gifer.com/3IsP.gif" width="100px" /> 
+ <img align="center" src="https://i.gifer.com/3IsP.gif" width="100px" /> 
 
 
 
