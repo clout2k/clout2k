@@ -13,11 +13,12 @@
       <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png" height="35px" style="vertical-align:top margin:6px 4px" />
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/2048px-HTML5_logo_and_wordmark.svg.png" height="35px" style="vertical-align:top margin:6px 4px" />
          <img src="https://seeklogo.com/images/J/java-logo-7F8B35BAB3-seeklogo.com.png" height="35px" style="vertical-align:top margin:6px 4px" />
+        
+             <img src="https://cdn.cdnlogo.com/logos/v/82/visual-studio-code.svg" height="35px" style="vertical-align:top margin:6px 4px"/>
           <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1024px-Unofficial_JavaScript_logo_2.svg.png" height="35px" style="vertical-align:top margin:6px 4px" />
         
             <img src="https://seeklogo.com/vector-logo/273749/node-js" height="35px" style="vertical-align:top margin:6px 4px" />
-           
-             <img src="https://cdn.cdnlogo.com/logos/v/82/visual-studio-code.svg" height="35px" style="vertical-align:top margin:6px 4px"/>
+       
             
              
 </p>
