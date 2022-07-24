@@ -15,7 +15,7 @@
 
 
 <h2 align="center">
-    <img align="center" src="https://images.squarespace-cdn.com/content/v1/5d6ff4161b09ec00018bb0e5/41b0d50a-c971-4d14-adaa-ad152e51b2f5/CHARACTER_RUN_FINAL_SHADOW.gif" width="60px" /> Github Stats
+    <img align="center" src="https://images.squarespace-cdn.com/content/v1/5d6ff4161b09ec00018bb0e5/41b0d50a-c971-4d14-adaa-ad152e51b2f5/CHARACTER_RUN_FINAL_SHADOW.gif" width="40px" /> Github Stats
 </h2>
 <p align="center">
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=clout2k&show_icons=true&title_color=fff&icon_color=018eff&text_color=ECECEC&bg_color=000000" alt="My Public Github Stats">
