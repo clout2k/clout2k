@@ -2,7 +2,7 @@
 <p align="center" >
   <samp>
     My name is Clout. I am a Developer, Gamer, and Music Enthusiast. 
-  <br/>  I enjo trying new things and conquering things i have no clue about
+  <br/>  I enjoy trying new things and conquering things i have no clue about
   <br/>
 </p>
 
