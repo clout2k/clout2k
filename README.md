@@ -3,10 +3,10 @@
 </h2>
 <p align="center" >
   <samp>
-    My name is Clout. I am a Developer, Gamer, and Music Enthusiast. 
+  My name is Clout. I am a Developer, Gamer, and Music Enthusiast. 
   <br/>  I enjoy trying new things and conquering things i have no clue about
   <br/>
-        <img align="center" src="https://content.presentermedia.com/content/animsp/00001000/1849/student_working_on_laptop_anim_300_wht.gif" width="100px" /> 
+  <img align="center" src="https://content.presentermedia.com/content/animsp/00001000/1849/student_working_on_laptop_anim_300_wht.gif" width="100px" /> 
 </p>
 
 
@@ -54,7 +54,7 @@ Find All My Social Medias Here
 <a href="https://www.painbot.xyz/clout" target="_blank">
 <img width="18%" alt="Find All My Social Medias Here" src="https://ia802905.us.archive.org/8/items/clickme_202004/tapme.gif"/>
 </a>
-<img align="center" src="https://www.kindpng.com/picc/m/396-3969195_animated-computer-gif-png-transparent-png.png" alt="My Visitors">
+<img align="center" src="https://www.kindpng.com/picc/m/396-3969195_animated-computer-gif-png-transparent-png.png" width="100px">
 </p>
 <p align="center">
 <img align="center" src="https://visitor-badge.glitch.me/badge?page_id=clout2k.clout2k" alt="My Visitors">
