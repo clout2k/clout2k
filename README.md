@@ -15,7 +15,7 @@
 <img src="https://seeklogo.com/images/J/java-logo-7F8B35BAB3-seeklogo.com.png" height="35px" style="vertical-align:top margin:6px 4px" />
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png" height="35px" style="vertical-align:top margin:6px 4px"/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1024px-Unofficial_JavaScript_logo_2.svg.png" height="35px" style="vertical-align:top margin:6px 4px" />
-<img src="https://brandslogos.com/wp-content/uploads/images/large/nodejs-logo.png" height="35px" style="vertical-align:top margin:6px 4px" />
+<img src="https://brandslogos.com/wp-content/uploads/images/large/nodejs-logo.png" height="35px" style="horizontal-align:top margin:6px 4px" />
        
             
              
