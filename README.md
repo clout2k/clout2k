@@ -4,6 +4,7 @@
 </h2>
 <p align="center">
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=clout2k&show_icons=true&title_color=fff&icon_color=018eff&text_color=ECECEC&bg_color=000000" alt="My Public Github Stats">
+    <br/>
  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=clout2k&layout=compact" alt="My Github Languages Stats">
 </p>  
 
