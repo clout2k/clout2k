@@ -1,4 +1,4 @@
-## <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/welcomeglitch.gif" width="50px" /> my name is clout!
+## <img src="https://images.squarespace-cdn.com/content/v1/5bc4706dda50d36591e0fa6c/1541410208009-4D7FYMVJ60TTSBQR1A2O/WW+1803+-+Welcome+GIF+1.1.gif?format=1500w" width="50px" /> my name is clout!
 <p align="center" >
   <samp>
     My name is Clout. I am a Developer, Gamer, and Music Enthusiast. 
