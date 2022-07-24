@@ -17,7 +17,7 @@
       <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1024px-Unofficial_JavaScript_logo_2.svg.png" height="35px" style="vertical-align:top margin:6px 4px" />
       <img src="https://seeklogo.com/images/N/nodejs-logo-FBE122E377-seeklogo.com.png" height="35px" style="vertical-align:top margin:6px 4px" />
       <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" height="35px" style="vertical-align:top margin:6px 4px" />
-      <img src="https://www.svgrepo.com/show/331424/heroku.svg" height="35px" style="vertical-align:top margin:6px 4px" />
+      <img src="https://cdn-icons-png.flaticon.com/512/873/873120.png" height="35px" style="vertical-align:top margin:6px 4px" />
             
              
 </p>
