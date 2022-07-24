@@ -8,9 +8,7 @@
 </p>  
 <br/>
 
-<h2 align="center">
- <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/pickaxe.png" width="40px" /> Tools & Frameworks
-</h2>
+
 
 <p align="center">
      
