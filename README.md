@@ -15,7 +15,7 @@
 
 
 <h2 align="center">
-    Github Stats
+    <img align="center" src="https://images.squarespace-cdn.com/content/v1/5d6ff4161b09ec00018bb0e5/41b0d50a-c971-4d14-adaa-ad152e51b2f5/CHARACTER_RUN_FINAL_SHADOW.gif" width="40px" /> Github Stats
 </h2>
 <p align="center">
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=clout2k&show_icons=true&title_color=fff&icon_color=018eff&text_color=ECECEC&bg_color=000000" alt="My Public Github Stats">
@@ -25,7 +25,7 @@
 <br/>
 
 
-<!-- ### <img align="center" src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/pickaxe.png" width="40px" />  Tools & Frameworks -->
+
 <h2 align="center">
  <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/pickaxe.png" width="40px" /> Tools & Frameworks
 </h2>
@@ -46,9 +46,7 @@
 <h2 align="center">
 Find All My Social Medias Here
 </h2>
-<!-- Your support, if you have it 
-I created these images, feel free to use them.
--->
+
 <p align="center">
 <a href="https://www.painbot.xyz/clout" target="_blank">
 <img width="18%" alt="Find All My Social Medias Here" src="https://ia802905.us.archive.org/8/items/clickme_202004/tapme.gif"/>
